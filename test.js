@@ -5,4 +5,4 @@ boutonTest.addEventListener('change', function() {
     console.log("hello");
 });
 
-divTest.add(boutonTest);
+divTest.append(boutonTest);
